@@ -1,2 +1,2 @@
 # JFreeChart
-Swing desktop app unig JFree Chart library
+Swing desktop app using JFree Chart library
